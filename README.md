@@ -2,7 +2,7 @@
 This repository contains an Exploratory Data Analysis (EDA) project focused on a dataset of global freelancers. The analysis aims to segment freelancers based on various attributes for targeted strategies.
 
 File Description:
-- Untitled1.ipynb: Jupyter Notebook with Python code for:
+- Freelancers_EDA.ipynb: Jupyter Notebook with Python code for:
 - Loading and inspecting the global_freelancers_raw.csv dataset.
 - Cleaning data (e.g., gender, hourly rate, client satisfaction, is_active, rating).
 - Performing EDA with statistical summaries and visualizations.
